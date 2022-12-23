@@ -3,3 +3,4 @@ mandc
 mandf
 *.so
 __pycache__/
+*.code-workspace
