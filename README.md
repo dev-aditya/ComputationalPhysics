@@ -1,3 +1,3 @@
 # CompPhysics
-Here I will post the code used in Computational Physics class at Rutgers 2020.
+My version of Computational Physics Codes following the lectures here 
 http://www.physics.rutgers.edu/~haule/509/
