@@ -1,4 +1,4 @@
-CC = g++-10
+CC = g++
 F90 = gfortran
 
 all : mandc mandf
